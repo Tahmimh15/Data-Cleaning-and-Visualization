@@ -2,5 +2,6 @@ Both ipynb and py files are attached here.
 Both winequality-red and winequality-white files are attached.
 
 If Google Colab is used to run the files, it is advisable to press ‘Run all’ from the above
-from the ‘Runtime’ tab for the first time, so the pointer can run the data sequentially.
+from the ‘Runtime’ tab when running it for the first time, so the pointer can run the data sequentially.
+Sometimes, colab messes up the sequence of the code if blocks are played separately. 
 
